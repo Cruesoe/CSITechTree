@@ -1,0 +1,9 @@
+// CSITechTree Change Log
+
+0.1 - 	Initial Layout
+0.2 - 	Initial Mod Support
+0.3 - 	Updated Folder structure
+	Updated Stock part locations, created separate configs for expansions
+	Updated USI MKS
+	Updated USI Kontainers
+	Added MechJeb support for Upgrades
