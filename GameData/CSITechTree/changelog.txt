@@ -7,3 +7,4 @@
 	Updated USI MKS
 	Updated USI Kontainers
 	Added MechJeb support for Upgrades
+0.4	Added support for JX2Antenna
