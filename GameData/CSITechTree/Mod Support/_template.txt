@@ -7,7 +7,9 @@
 // advGriddedThrusters
 // expGriddedThrusters
 // nuclearFuelSystems
+// basicfusionRockets
 // fusionRockets
+// advFusionRockets
 // nuclearPropulsion
 // improvedNuclearPropulsion
 // advNuclearPropulsion

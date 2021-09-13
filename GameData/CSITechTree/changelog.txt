@@ -7,4 +7,12 @@
 	Updated USI MKS
 	Updated USI Kontainers
 	Added MechJeb support for Upgrades
-0.4	Added support for JX2Antenna
+0.4 - 	Added support for JX2Antenna
+0.5 - 	New Basic and Advanced Fusion Rockets nodes added
+	Enhancements to USI Suite - First Pass on all USI parts
+	Add IDFlags Mod Support
+	Plantery Base Systems - Added
+	HabTech2 - Added
+	Updates Localisation
+	Optional Science Rework - Incomplete
+	Optional Kerbal Experiance Change
